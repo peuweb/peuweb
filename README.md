@@ -8,7 +8,6 @@
 - Seeking partnerships with fellow product developers
 - My current favorite stack: **Next.js** for the frontend and any backend language I master
 
-
 ## GitHub Contribution Overview
 
 <p align="center">
@@ -20,17 +19,21 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=peuweb&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="peuweb's Stats"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=peuweb&theme=dracula&hide_border=true" alt="peuweb's Streak"/>
     </td>
   </tr>
   <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuweb&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="peuweb's Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuweb&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="peuweb's Top Languages"/>
     </td>
+  </tr>
+  <tr>
     <td>
-        <!-- Devicons: List of main languages and frameworks -->
-        <p align="center">
+      <!-- Devicons: List of main languages and frameworks -->
+      <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -51,7 +54,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
         <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafka" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-        </p>
+      </p>
     </td>
   </tr>
 </table>
