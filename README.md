@@ -60,5 +60,8 @@
 </table>
 
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=peuweb&theme=darkhub" />
+
+---
 
 Let's build something amazing together! If you're looking for a partner to create digital products, feel free to reach out.
